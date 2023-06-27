@@ -1,0 +1,11 @@
+Pais, Capital
+Antigua e Barbuda, Sao Joao
+Argentina, Buenos Aires
+Bahamas, Nassau
+Barbados, Bridgetown
+Belize, Belmopa
+Bolivia, Sucre
+Brasil, Brasilia
+Canada, Ottawa
+Chile, Santiago
+Colombia, Bogota

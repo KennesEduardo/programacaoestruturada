@@ -1,0 +1,5 @@
+2 -> positivo par
+4 -> positivo par
+3 -> positivo ímpar
+5 -> positivo ímpar
+6 -> positivo par
